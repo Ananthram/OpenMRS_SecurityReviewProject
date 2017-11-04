@@ -1,4 +1,4 @@
-#Security Review for OpenMRS Aplicaation
+# Security Review for OpenMRS Aplicaation
 
 ## [Project Part 1: OWASP Top 10](https://sites.google.com/a/ncsu.edu/csc515-software-security/project-part-1)
 
