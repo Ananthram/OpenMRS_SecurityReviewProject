@@ -2,7 +2,7 @@
 
 ## [Project - Final Report](https://sites.google.com/a/ncsu.edu/csc515-software-security/important_dates/project-full-report)
 
-### [Link to the final report](../OpenMRS_Security_Review_Final_Report.pdf)
+### [Link to the final report](../master/OpenMRS_Security_Review_Final_Report.pdf)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
